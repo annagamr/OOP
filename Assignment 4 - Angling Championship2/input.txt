@@ -1,0 +1,12 @@
+Anna ID754 carp 5 whale 9 lionfish 311 swordfish 3
+Anna ID555 catfish 3 carp 12
+Anna ID332 catfish 9 lionfish 22 other 143
+Tina ID245 
+Tina ID232
+Martha ID321 carp 1 goldfish 2
+Lily ID432 carp 5
+Lily ID422 goldfish 3
+Lily ID654
+Lily ID543
+Lily ID423
+Lily ID422

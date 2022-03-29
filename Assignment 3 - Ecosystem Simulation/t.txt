@@ -1,0 +1,30 @@
+4
+Hungry wom 7
+Lanky wit 5
+Big wor 4
+Tall wit 3
+10
+
+
+Day 1 Demand:
+ alpha = 10
+ delta = 4 + 4
+ Result = No rad
+
+Day 2 Demand:
+ alpha = 10
+ delta = 8
+
+
+Day 3 Demand:
+	alpha = 10
+ 	delta = 4
+ 	Result = alpha
+Day 4 Demand:
+	alpha = 10
+ 	delta = 0
+ 	Result = alpha
+Day 5 Demand:
+	alpha = 10
+ 	delta = 0
+ 	Result = alpha
